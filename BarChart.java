@@ -1,5 +1,10 @@
 //the java program that prompts user to enter the scores
 //of five players and prints a bar char consists of stars
+//this compiles and runs but i need the method drawChart
+//that accepts the players name and points and contains a loop
+//that prints the chart for each player that is passed to it.
+//the program must get input from the keyboard
+//the players names must be hard coded in the code
 
 import java.util.Scanner;
 
